@@ -1,0 +1,11 @@
+Dijkstra distances5.txt 
+BellmanFord distances5.txt 
+FloydWarshall distances5.txt 
+
+Dijkstra distances100.txt 
+BellmanFord distances100.txt 
+FloydWarshall distances100.txt 
+
+Dijkstra distances1000_202110.txt 
+BellmanFord distances1000_202110.txt 
+FloydWarshall distances1000_202110.txt 
